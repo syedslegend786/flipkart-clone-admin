@@ -1,0 +1,19 @@
+.product__addproduct{
+    display: flex;
+    justify-content: space-between;
+    margin: 20px;
+}
+.trmodal__img__div{
+    display: flex;
+    align-items: center;
+}
+.trmodal__img__div>img{
+    width: 100px;
+    height: 100px;
+    object-fit: contain;
+    margin-right: 30px;
+}
+.modal__label{
+    font-weight: bold;
+    font-size: small;
+}

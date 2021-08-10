@@ -1,0 +1,19 @@
+.rct-title{
+    font-weight: bold;
+    font-size: large;
+}
+.del__upd{
+    display: flex;
+}
+.del__upd button{
+    border: none;
+    margin: 3px;
+    display: flex;
+    align-items: center;
+    width: 100px;
+    justify-content: space-evenly;
+}
+.del__upd button:hover{
+    background-color: black;
+    color: white;
+}

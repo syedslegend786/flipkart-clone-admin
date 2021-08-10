@@ -1,0 +1,16 @@
+
+.home__sidebar ul li{
+    list-style: none;
+}
+.home__sidebar ul li a{
+    text-decoration: none;
+    color: black;
+    display: block;
+    padding: 5px;
+}
+.active2, .active2 a:link, .active2 a:visited{
+    background: #004B8D !important;
+    color: #FFFFFF !important;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
